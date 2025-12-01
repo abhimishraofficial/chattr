@@ -6,7 +6,7 @@ Chattr is an anonymous chat application that enables secure, temporary, and priv
 
 <br>
 
-**Chattr is live! Visit [Chattr](https://chattr-orpin.vercel.app/) to start chatting anonymously now. 🚀**
+**Chattr is live! Visit [Chattr](https://chattr-nu.vercel.app/) to start chatting anonymously now. 🚀**
 
 ---
 
@@ -59,4 +59,4 @@ Chattr is an anonymous chat application that enables secure, temporary, and priv
 ---
 
 <br>
-📬 Thank you for checking out Chattr! If you have any questions or feedback, feel free to open an issue or contact me at tanishkadeep09@gmail.com.
+📬 Thank you for checking out Chattr! If you have any questions or feedback, feel free to open an issue or contact me at shashankmishrahjp@gmail.com.
